@@ -186,6 +186,11 @@ if (isset($_GET['logout'])) {
                             Lyrics</a>
                     </div>
                 </div>
+                <div class="col-md-6">
+                    <div class="container1 rounded">Imagine Dragons - Shots
+                        <a class="btn btn-primary btn-sm float-end" href="songs\shots.php" role="button">See Lyrics</a>
+                    </div>
+                </div>
                 
             </div><br><br>
         </div>
