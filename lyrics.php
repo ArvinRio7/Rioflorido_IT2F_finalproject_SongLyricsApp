@@ -191,6 +191,21 @@ if (isset($_GET['logout'])) {
                         <a class="btn btn-primary btn-sm float-end" href="songs\shots.php" role="button">See Lyrics</a>
                     </div>
                 </div>
+                <div class="col-md-6">
+                    <div class="container1 rounded">Justin Bieber - Ghost
+                        <a class="btn btn-primary btn-sm float-end" href="songs\ghost.php" role="button"
+                            name="song1">See
+                            Lyrics</a>
+                    </div>
+                </div>
+
+                <div class="col-md-6">
+                    <div class="container1 rounded">Lil Nas X - INDUSTRY BABY
+                        <a class="btn btn-primary btn-sm float-end" href="songs\industrybaby.php" role="button">See
+                            Lyrics</a>
+                    </div>
+                </div>
+
                 
             </div><br><br>
         </div>
